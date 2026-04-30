@@ -115,7 +115,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app will open at http://localhost:8501
+The app will open at https://deepneuroscan.streamlit.app/
 
 ---
 
