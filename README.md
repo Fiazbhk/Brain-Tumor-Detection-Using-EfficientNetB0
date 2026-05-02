@@ -1,4 +1,4 @@
-# Brain Tumor Detection Using EfficientNetB0
+# Brain Tumor Classification Using EfficientNetB0
 
 A deep learning system for classifying brain MRI scans into four categories using EfficientNetB0 with transfer learning. Deployed as an interactive web application using Streamlit.
 
